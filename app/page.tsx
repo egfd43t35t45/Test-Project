@@ -5,10 +5,10 @@ export default function Home() {
     <main className="flex min-h-screen flex-col p-12 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500">
       {/* Titel oben */}
       <div className="text-center w-full mb-16">
-        <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-900 tracking-tight">
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-white tracking-tight">
           Stübi Digital
         </h1>
-        <p className="mt-4 text-lg sm:text-xl text-gray-600">
+        <p className="mt-4 text-lg sm:text-xl text-white">
           Dein Partner für maßgeschneiderte digitale Lösungen.
         </p>
       </div>
